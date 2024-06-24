@@ -21,7 +21,7 @@ The E-Commerce App is a modern web application designed to provide a seamless sh
 
 ## Demo
 
-Check out the live demo of the application [here](#).
+Check out the live demo of the application `https://e-commerce-website-six-phi.vercel.app/`
 
 ## Features
 
